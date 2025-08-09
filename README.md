@@ -9,3 +9,4 @@
   - Windows: Make sure that you save with LF option.
   - Mac: `chmod +x ./\_entrypoint/init.sh`
 - `docker compose up -d --force-recreate`
+
